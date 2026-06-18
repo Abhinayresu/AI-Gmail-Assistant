@@ -34,7 +34,7 @@
 ## Screenshots
 
 ### 1. AI Compose Email Page
-![AI Compose Email Page](docs/screenshots/01-compose.png)
+![AI Compose Email Page](docs/screenshots/1.jpeg)
 
 **Key Capabilities:** Natural language instructions • Tone selection • Length selection • Editable draft generation
 *Demonstrates the AI Compose functionality, enabling users to generate editable email drafts by providing straightforward natural language instructions.*
@@ -42,7 +42,7 @@
 ---
 
 ### 2. Inbox + AI Thread Summary
-![Inbox + AI Thread Summary](docs/screenshots/02-thread-summary.png)
+![Inbox + AI Thread Summary](docs/screenshots/2.jpeg)
 
 **Key Capabilities:** Email categorization • Thread view • AI-generated summary of entire conversation
 *Showcases the modernized inbox experience powered by AI categorization and cohesive summaries of the entire conversation context.*
@@ -50,7 +50,7 @@
 ---
 
 ### 3. AI Chat Assistant
-![AI Chat Assistant](docs/screenshots/03-ai-chat.png)
+![AI Chat Assistant](docs/screenshots/3.jpeg)
 
 **Key Capabilities:** RAG-powered inbox search • Natural language Q&A over emails • Context-aware responses
 *Illustrates the Retrieval-Augmented Generation (RAG) capabilities, allowing users to perform complex, natural language queries against their synchronized emails.*
@@ -58,7 +58,7 @@
 ---
 
 ### 4. Project Alpha Thread Summary
-![Project Alpha Thread Summary](docs/screenshots/04-project-summary.png)
+![Project Alpha Thread Summary](docs/screenshots/4.jpeg)
 
 **Key Capabilities:** Thread summarization • Action items • Deadlines • Key decisions extraction
 *Highlights the advanced summarization engine accurately parsing conversations to extract critical operational details.*
@@ -66,7 +66,7 @@
 ---
 
 ### 5. AI Reply Generator
-![AI Reply Generator](docs/screenshots/05-ai-reply.png)
+![AI Reply Generator](docs/screenshots/5.jpeg)
 
 **Key Capabilities:** Context-aware reply drafting • Multiple tone styles • Thread-aware email responses
 *Demonstrates the intelligent reply drafting system generating contextually appropriate responses based on the full thread history.*
@@ -74,7 +74,7 @@
 ---
 
 ### 6. Gmail Verification
-![Gmail Verification](docs/screenshots/06-gmail-thread-verification.png)
+![Gmail Verification](docs/screenshots/6.jpeg)
 
 **Key Capabilities:** Reply successfully delivered through Gmail API • Appears inside original Gmail thread • End-to-end proof of functionality
 *Serves as definitive proof of end-to-end functionality, verifying that an AI-generated reply is successfully transmitted and appended natively in Gmail.*
